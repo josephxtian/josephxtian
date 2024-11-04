@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiya 👋
 
 I'm new to coding, and currently enrolled on a course to learn python for data engineering with North Coders.
 
