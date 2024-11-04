@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm new to coding, and currently enrolled on a course to learn python for data engineering with North Coders.
+
+When i'm not debugging my amateur code, i'm at Manchester Hackspace, a makerspace i've been one of the directors at for a few years now.
+
+
 <!--
 **josephxtian/josephxtian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
