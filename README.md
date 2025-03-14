@@ -1,8 +1,6 @@
 ## Hiya 👋
 
-I'm new to coding, and currently enrolled on a course to learn python for data engineering with North Coders.
-
-When i'm not debugging my amateur code, i'm at Manchester Hackspace, a makerspace i've been one of the directors at for a few years now.
+I am a multidisciplinary engineer, non-profit director and visual production technician with a passion for technology and its utility to create meaningful change. My considered approach to functional design has won my projects several prestigious awards in their field, and my work has had proven impact in communities. Following the recent completion of a full-time data engineering course, I am making a career pivot into my next role as a data engineer, building quality data stacks to inform business insights.
 
 
 <!--
